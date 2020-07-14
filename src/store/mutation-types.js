@@ -1,0 +1,5 @@
+export const INIT_HOME_MULTIDATA = 'initHomeMultidata'
+export const INIT_DETAIL_STOREDATA = 'initDetailStoreData'
+export const INIT_DETAIL_COMMENTDATA = 'initDetailCommentData'
+export const ADD_SHOPCART_COUNT = 'addShopcartCount'
+export const ADD_SHOPCART = 'addShopcart'

@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #eee;
+  box-sizing: border-box;
+}
+
+/*让所有斜体 不倾斜*/
+em,
+i {  
+    font-style: normal;
+}
+/*去掉列表前面的小点*/
+li {
+    list-style: none;
+}
+/*取消链接的下划线*/
+a {
+  color: #666;
+  text-decoration: none;
+}
+/*清除浮动*/
+.clearfix:after {
+  visibility: hidden;
+  clear: both;
+  display: block;
+  content: ".";
+  height: 0
+}
+
+.clearfix {
+  *zoom: 1
+}

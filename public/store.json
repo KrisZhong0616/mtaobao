@@ -1,0 +1,24 @@
+{
+  "shopName": "绿枫叶陶居",
+  "shopIcon": "//img.alicdn.com/imgextra//46/4a/TB1S5ppHFXXXXXwXpXXSutbFXXX.jpg_100x100q90_.webp",
+  "shopStar": "//gw.alicdn.com/tfs/TB1Bw2CixrI8KJjy0FpXXb5hVXa-132-24.png_145x145q90_.webp",
+  "evaluates": [
+    {
+      "score": "4.9 ",
+      "levelText": "高",
+      "title": "宝贝描述"
+    },
+    {
+      "score": "4.8 ",
+      "levelText": "高",
+      "title": "卖家服务"
+    },
+    {
+      "score": "4.9 ",
+      "levelText": "高",
+      "title": "物流服务"
+    }
+  ],
+  "creditLevelIcon": "//gw.alicdn.com/tfs/TB1d0h2qVYqK1RjSZLeXXbXppXa-1125-960.png?getAvatar=avatar",
+  "activity": "//img.alicdn.com/imgextra/i2/245864261/O1CN01XR2L4c1hLaFD4DHOV_!!245864261.jpg_640x0q80_.webp"
+}

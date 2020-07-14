@@ -1,0 +1,30 @@
+[
+  { 
+    "icon": "http://img1.imgtn.bdimg.com/it/u=2569303301,2927246556&fm=26&gp=0.jpg",
+    "title": "其他特色",
+    "content": "满意",
+    "ask": "//gw.alicdn.com/tfs/TB1lneilZLJ8KJjy0FnXXcFDpXa-36-36.png_30x30q90_.webp",
+    "tips": "还有让您眼前一亮的产品特色吗？"
+  },
+  { 
+    "icon": "http://img1.imgtn.bdimg.com/it/u=2569303301,2927246556&fm=26&gp=0.jpg",
+    "title": "拍照效果",
+    "content": "单摄像头吊打某些三摄",
+    "ask": "//gw.alicdn.com/tfs/TB1lneilZLJ8KJjy0FnXXcFDpXa-36-36.png_30x30q90_.webp",
+    "tips": "照片的清晰度，色彩效果好吗？"
+  },
+  { 
+    "icon": "http://img1.imgtn.bdimg.com/it/u=2569303301,2927246556&fm=26&gp=0.jpg",
+    "title": "显示效果",
+    "content": "很棒，lcd很护眼。",
+    "ask": "//gw.alicdn.com/tfs/TB1lneilZLJ8KJjy0FnXXcFDpXa-36-36.png_30x30q90_.webp",
+    "tips": "屏幕亮度和色彩效果您觉得如何？"
+  },
+  { 
+    "icon": "http://img1.imgtn.bdimg.com/it/u=2569303301,2927246556&fm=26&gp=0.jpg",
+    "title": "电池续航",
+    "content": "电池续航苹果手机系列最出色的了",
+    "ask": "//gw.alicdn.com/tfs/TB1lneilZLJ8KJjy0FnXXcFDpXa-36-36.png_30x30q90_.webp",
+    "tips": "充满电后能用多久？"
+  }
+]
